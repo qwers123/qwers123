@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @qwers123
-- 🌱 I’m currently learning data science, machine learning, and artificial intelligence using python. I am also trying to implement cloud services using Google.
+- 🌱 Im a full time Data Engineer using Databricks and Snowflake. A dedicated teacher that tirelessly shares knowledge and best practices in software development. Still learning the different technologies that someday can contribute to the society ^_^
 - 📫 You can reach me using my personal e-mail: charles_juanillas@yahoo.com
 
 <!---
